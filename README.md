@@ -1,4 +1,4 @@
-# NodeJS Hello, <Name> Application
+# Hello, <Name> NodeJS Application with Pulumi and ECS
 
 This repository is a Hello, <Name> Application built with NodeJS to be deployed to AWS with Pulumi without the use of Pulumi Crosswalk.
 
